@@ -317,4 +317,4 @@ _EOF_
 
 systemctl restart httpd
 cd 
-sudo rm -Rf autoscript-installation
+sudo rm -Rf CHINA-14-DOMAIN-SITE-INSTALLATION
